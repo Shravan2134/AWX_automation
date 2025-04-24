@@ -3,7 +3,7 @@ name: 'Build and Deploy to GKE'
 on:
   push:
     branches:
-      - '"master"'
+      - '"shravan_B"'
 
 env:
   PROJECT_ID: 'absolute-range-453408-f9' 
